@@ -1,5 +1,7 @@
 # R-Shark / Super-X (Dooyong) for MiSTer
 
+<img width="468" height="764" alt="image" src="https://github.com/user-attachments/assets/e3acb080-e0ef-4859-b4de-ed522d685848" />
+
 A MiSTer FPGA core for Dooyong's 68000-based vertical shoot 'em ups **R-Shark** (1995) and
 **Super-X** (1994). One core (`RShark`) runs every supported game; each game has its own MRA.
 
